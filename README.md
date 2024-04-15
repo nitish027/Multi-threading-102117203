@@ -1,6 +1,5 @@
 # Multi-threading-102117203
 
-# Multi-Threading-102117203
 
 The "Matrix Multiplication Performance Benchmark" project assesses how multi-threading influences the speed of matrix multiplication tasks. It utilizes Python libraries such as NumPy, threading, and Pandas to create random matrices and gauge the time taken for matrix multiplication with different thread counts ranging from 1 to 8. The outcomes are scrutinized and graphically represented to grasp the impact of concurrency on performance. This initiative provides valuable insights into enhancing efficiency for computational tasks involving matrix operations.
 
